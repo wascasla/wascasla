@@ -1,4 +1,7 @@
-![DevOps Automation](https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXc5NzRodXd2aTQ2ejBqYWs5OWtzYnVqNHM1eGdwZHowdnA3dzJ4ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YYbecrFqO7UUE/giphy.gif)
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXc5NzRodXd2aTQ2ejBqYWs5OWtzYnVqNHM1eGdwZHowdnA3dzJ4ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YYbecrFqO7UUE/giphy.gif" alt="DevOps" width="300"/>
+</div>
+
 
 
 # 👋 Hi there, I'm Walter Schemith  
